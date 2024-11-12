@@ -1,1 +1,1 @@
-# jdbc-virtualthreads-pipelined
+[A GenAI Solution with Virtual Threads, JDBC Reactive Extensions, and Pipelined Database Operations](https://juarezjunior.medium.com/a-genai-solution-with-virtual-threads-jdbc-reactive-extensions-and-pipelined-database-operations-8f29999ef47f) 
